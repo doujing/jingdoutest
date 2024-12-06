@@ -1,6 +1,5 @@
-print("ok")
-print("hello world!")
-print("---hello---hello---hello---")
-print("go home===============================")
-print("go home right now!!!")
-print("你好世界！！！")
+import numpy
+import pandas as pd
+a = 12
+b = 9
+print(a,"+",b,"=", a + b)
